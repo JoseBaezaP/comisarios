@@ -10,6 +10,7 @@
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
+  <link href="/css/app.css" rel="stylesheet">
   <meta name='keywords' content="Isla aguada, Chelo Baeza" />
   <meta name='description' content="Candidatos a comisaria, Isla Aguada 2021-2024. Ejerce tu derecho al voto." />
   <meta name='subject' content="Propuestas" />
