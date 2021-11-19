@@ -17,12 +17,14 @@
   <meta name='subject' content="Propuestas" />
   <meta name='copyright' content="Propuestas" />
   <meta name='language' content="es" />
+  <meta name="title" content="Propuestas" />
+  <meta name="image" content="/images/voto-isla-aguada.jpeg" />
   <meta name="og:title" content="Propuestas" />
   <meta name="og:type" content="website" />
-  <meta name="og:image" content="/images/voto-isla-aguada.jpeg" />.
+  <meta name="og:image" content="/images/voto-isla-aguada.jpeg" />
   <meta name="og:url" content="{{url()->current()}}">
   <meta name="og:site_name" content="Propuestas" />
-  <meta name="og:description" content="Candidatos a comisaria, Isla Aguada 2021-2024.Ejerce tu derecho al voto." />
+  <meta name="og:description" content="Candidatos a comisaria, Isla Aguada 2021-2024. Ejerce tu derecho al voto." />
 </head>
 
 <body>
