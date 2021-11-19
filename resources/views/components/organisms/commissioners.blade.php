@@ -1,4 +1,4 @@
-<div class="w-full h-screen bg-blue-200">
+<div class="w-full h-full md:h-screen bg-blue-200">
   <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
     <x-atom.title>
       Conoce las propuestas de nuestros comisarios.
